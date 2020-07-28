@@ -1,0 +1,29 @@
+{
+  // #AUTO FORMAT
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "vue.fixAll.eslint": true,
+    "html.fixAll.eslint": true,
+    "javascript.fixAll.eslint": true,
+    "source.fixAll.markdownlint": true
+  },
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true
+  },
+  "[shellscript]": {
+    "editor.formatOnSave": true
+  },
+  "[java]": {
+    "editor.formatOnSave": true
+  },
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "files.insertFinalNewline": true,
+}
